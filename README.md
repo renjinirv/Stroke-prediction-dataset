@@ -1,0 +1,1 @@
+Hi all, This is the capstone project on stroke prediction dataset. The dataset consists of 11 clinical features which contribute to stroke occurence. I have done EDA, visualisation, encoding, scaling and modelling of dataset. 
